@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ali AhKau Muthu</string>
+    <string name="rollButton">rollbutton</string>
+    <string name="numberButton">number</string>
+</resources>
