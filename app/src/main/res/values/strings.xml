@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ali AhKau Muthu</string>
-    <string name="rollButton">rollbutton</string>
-    <string name="numberButton">number</string>
+    <string name="app_name">Dice Roller</string>
+    <string name="rollButton">roll</string>
+    <string name="numberButton">Roll Dice</string>
 </resources>
