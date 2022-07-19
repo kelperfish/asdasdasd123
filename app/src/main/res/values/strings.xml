@@ -3,4 +3,6 @@
     <string name="rollButton">roll</string>
     <string name="numberButton">Roll Dice</string>
     <string name="rules">Conventions/Rules For Rolling Dice in the Private Game The dice should be vigorously shaken and cleanly rolled/thrown. Should a die not land flat on one side, but tipped at an angle, then it is declared cocked and all the dice must be re-thrown.</string>
+    <string name="PlayerName">Enter Your Name</string>
+    <string name="updateButton">update</string>
 </resources>
